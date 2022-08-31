@@ -5,4 +5,5 @@ public class Hat {
     // Hat is good for son
 
     // updated
+    // 2 updated
 }
